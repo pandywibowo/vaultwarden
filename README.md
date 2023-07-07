@@ -1,5 +1,4 @@
 # vaultwarden
-Vaultwarden docker-compose
 
 .env Description
 
