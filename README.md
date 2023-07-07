@@ -2,6 +2,7 @@
 Vaultwarden docker-compose
 
 .env Description
+
 SMTP_HOST
 This is your SMTP mailserver
 
